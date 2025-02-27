@@ -1,0 +1,6 @@
+Hania,19,1090,470,CS;CE
+Haram,18,1078,576,CS;CE;Math
+Wareesha,17,1048,527,CS;CE;DS
+Muntaha,18,1112,532,CS;CE
+Juliet,19,1169,422,CS;DS;Math
+Amber,19,1049,167,CS

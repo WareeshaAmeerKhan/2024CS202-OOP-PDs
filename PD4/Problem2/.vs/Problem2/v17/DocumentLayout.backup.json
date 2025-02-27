@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD3\\Problem2\\",
+  "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|e:\\semester2\\oop\\pd\\pd3\\problem2\\problem2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|e:\\semester2\\oop\\pd\\pd4\\problem2\\problem2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|solutionrelative:problem2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|e:\\semester2\\oop\\pd\\pd3\\problem2\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|e:\\semester2\\oop\\pd\\pd3\\problem2\\problem2\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\problem2\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F2EB62-2BEC-493D-B7C7-9E0D8BD57BBD}|Problem2\\Problem2.csproj|solutionrelative:problem2\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD3\\Problem2\\Problem2\\Player.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\Problem2\\Player.cs",
               "RelativeDocumentMoniker": "Problem2\\Player.cs",
-              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD3\\Problem2\\Problem2\\Player.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\Problem2\\Player.cs",
               "RelativeToolTip": "Problem2\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T11:29:49.69Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD3\\Problem2\\Problem2\\Program.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\Problem2\\Program.cs",
               "RelativeDocumentMoniker": "Problem2\\Program.cs",
-              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD3\\Problem2\\Problem2\\Program.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\Problem2\\Program.cs",
               "RelativeToolTip": "Problem2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAACgXTMzMzPbvwcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T11:29:39.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:29:39.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Stats.cs",
-              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD3\\Problem2\\Problem2\\Stats.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\Problem2\\Stats.cs",
               "RelativeDocumentMoniker": "Problem2\\Stats.cs",
-              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD3\\Problem2\\Problem2\\Stats.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD4\\Problem2\\Problem2\\Stats.cs",
               "RelativeToolTip": "Problem2\\Stats.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T11:29:38.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:29:38.62Z"
             }
           ]
         }

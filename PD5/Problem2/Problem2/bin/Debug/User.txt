@@ -1,0 +1,4 @@
+Muntaha,muntaha001,Admin,theeti@gmail.com,Lahore,012345
+Hania,hania002,Customer,hanii@gmail.com,Lahore,67890
+Haram,haram003,admin,alien@gmail.com,Lahore,112233
+Wareesha,wareesha2007,Admin,wareesha@gmail.com,Lahore,00202

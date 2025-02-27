@@ -1,0 +1,4 @@
+Suger,Grocery,100,30,11
+Milk,grocery,80,34,22
+Banana,Fruit,12,15,9
+Strawberries,fruit,30,10,5

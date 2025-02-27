@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD3\\Program3\\",
+  "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD4\\Program3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|e:\\semester2\\oop\\pd\\pd3\\program3\\program3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|E:\\Semester2\\OOP\\PD\\PD4\\Program3\\program3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|solutionrelative:program3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|e:\\semester2\\oop\\pd\\pd3\\program3\\program3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|solutionrelative:program3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|e:\\semester2\\oop\\pd\\pd4\\program3\\program3\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|solutionrelative:program3\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|e:\\semester2\\oop\\pd\\pd3\\program3\\program3\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|solutionrelative:program3\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|E:\\Semester2\\OOP\\PD\\PD4\\Program3\\program3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0893018B-8A42-4A50-BE61-143A51884E53}|Program3\\Program3.csproj|solutionrelative:program3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +26,38 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Stats.cs",
-              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD3\\Program3\\Program3\\Stats.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD4\\Program3\\Program3\\Stats.cs",
               "RelativeDocumentMoniker": "Program3\\Stats.cs",
-              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD3\\Program3\\Program3\\Stats.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD4\\Program3\\Program3\\Stats.cs",
               "RelativeToolTip": "Program3\\Stats.cs",
-              "ViewState": "AgIAAAQAAAAAMjMzMzMbwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T12:01:39.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD3\\Program3\\Program3\\Player.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD4\\Program3\\Program3\\Player.cs",
               "RelativeDocumentMoniker": "Program3\\Player.cs",
-              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD3\\Program3\\Program3\\Player.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD4\\Program3\\Program3\\Player.cs",
               "RelativeToolTip": "Program3\\Player.cs",
-              "ViewState": "AgIAADEAAADgMzMzM7M0wEIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAZ2ZmZuYcwBAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T12:01:26.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T12:01:26.703Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD3\\Program3\\Program3\\Program.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD4\\Program3\\Program3\\Program.cs",
               "RelativeDocumentMoniker": "Program3\\Program.cs",
-              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD3\\Program3\\Program3\\Program.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD4\\Program3\\Program3\\Program.cs",
               "RelativeToolTip": "Program3\\Program.cs",
-              "ViewState": "AgIAAGEAAAAAlZmZmbkwwIAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAADIY2ZmZmYkwBMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T11:56:39.891Z",
               "EditorCaption": ""
