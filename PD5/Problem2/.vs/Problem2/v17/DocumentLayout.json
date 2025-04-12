@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\problem2\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|solutionrelative:problem2\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|e:\\semester2\\oop\\pd\\pd5\\problem2\\problem2\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|solutionrelative:problem2\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|solutionrelative:problem2\\bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\problem2\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|solutionrelative:problem2\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E78AB6F3-9C37-4D6E-9CD4-85827BDD3A42}|Problem2\\Problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -63,12 +63,11 @@
               "ViewState": "AgIAAHwAAAAAMDMzM1MwwIoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T16:58:07.391Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "ConsoleUtility.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\UI\\ConsoleUtility.cs",
               "RelativeDocumentMoniker": "Problem2\\UI\\ConsoleUtility.cs",
@@ -82,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\BL\\Product.cs",
               "RelativeDocumentMoniker": "Problem2\\BL\\Product.cs",
@@ -91,12 +90,11 @@
               "ViewState": "AgIAAAsAAACwmJmZmZkhwB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:00:19.231Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductCRUD.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\DL\\ProductCRUD.cs",
               "RelativeDocumentMoniker": "Problem2\\DL\\ProductCRUD.cs",
@@ -105,12 +103,11 @@
               "ViewState": "AgIAAGEAAADAKTMzMzMlwIAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:03:00.627Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductUI.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\UI\\ProductUI.cs",
               "RelativeDocumentMoniker": "Problem2\\UI\\ProductUI.cs",
@@ -119,12 +116,11 @@
               "ViewState": "AgIAAA8AAAAAVGZmZmYCwCcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:01:55.767Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\BL\\User.cs",
               "RelativeDocumentMoniker": "Problem2\\BL\\User.cs",
@@ -133,12 +129,11 @@
               "ViewState": "AgIAABMAAAAAMzMzMzM9wC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:00:28.675Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserCRUD.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\DL\\UserCRUD.cs",
               "RelativeDocumentMoniker": "Problem2\\DL\\UserCRUD.cs",
@@ -147,12 +142,11 @@
               "ViewState": "AgIAADYAAACAYmZmZmYawEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:03:10.49Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AdminUI.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\UI\\AdminUI.cs",
               "RelativeDocumentMoniker": "Problem2\\UI\\AdminUI.cs",
@@ -161,12 +155,11 @@
               "ViewState": "AgIAAAcAAAAAMjMzMzMrwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:01:34.127Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerUI.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\UI\\CustomerUI.cs",
               "RelativeDocumentMoniker": "Problem2\\UI\\CustomerUI.cs",
@@ -175,12 +168,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:01:44.3Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserUI.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem2\\Problem2\\UI\\UserUI.cs",
               "RelativeDocumentMoniker": "Problem2\\UI\\UserUI.cs",
@@ -195,6 +187,24 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

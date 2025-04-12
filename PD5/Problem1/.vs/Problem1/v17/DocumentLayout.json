@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|e:\\semester2\\oop\\pd\\pd5\\problem1\\problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|e:\\semester2\\oop\\pd\\pd5\\problem1\\problem1\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,20 +27,20 @@
       "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\degreecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\ui\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|solutionrelative:problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65382A09-3578-4840-ADC8-8A1B75912622}|Problem1\\Problem1.csproj|E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\problem1\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -64,11 +64,10 @@
               "RelativeDocumentMoniker": "Problem1\\Program.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\Program.cs",
               "RelativeToolTip": "Problem1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAACA/v///38gwEAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:04:18.89Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -85,72 +84,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\Student.cs",
               "RelativeDocumentMoniker": "Problem1\\BL\\Student.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\Student.cs",
               "RelativeToolTip": "Problem1\\BL\\Student.cs",
-              "ViewState": "AgIAAC4AAAAAoZmZmZkJwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAaGZmZmY0wBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:05:31.313Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "StudentUI.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\StudentUI.cs",
               "RelativeDocumentMoniker": "Problem1\\UI\\StudentUI.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\StudentUI.cs",
               "RelativeToolTip": "Problem1\\UI\\StudentUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwF4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:37:44.16Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StudentCRUD.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\StudentCRUD.cs",
               "RelativeDocumentMoniker": "Problem1\\DL\\StudentCRUD.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\StudentCRUD.cs",
               "RelativeToolTip": "Problem1\\DL\\StudentCRUD.cs",
-              "ViewState": "AgIAABsAAACQMjMzMzMwwE4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAABAZWZmZmYkwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:14:39.951Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "DegreeProgram.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\DegreeProgram.cs",
               "RelativeDocumentMoniker": "Problem1\\BL\\DegreeProgram.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\DegreeProgram.cs",
               "RelativeToolTip": "Problem1\\BL\\DegreeProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAACAzczMzMwkwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:06:13.213Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DegreeUI.cs",
               "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\DegreeUI.cs",
               "RelativeDocumentMoniker": "Problem1\\UI\\DegreeUI.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\UI\\DegreeUI.cs",
               "RelativeToolTip": "Problem1\\UI\\DegreeUI.cs",
-              "ViewState": "AgIAAB4AAACAxczMzMwiwCEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAADwyczMzAwnwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T15:35:38.135Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -160,11 +156,10 @@
               "RelativeDocumentMoniker": "Problem1\\DL\\DegreeCRUD.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\DegreeCRUD.cs",
               "RelativeToolTip": "Problem1\\DL\\DegreeCRUD.cs",
-              "ViewState": "AgIAACcAAAAwlpmZmRklwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAgAAAAAMA7wCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T15:35:46.807Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -174,7 +169,7 @@
               "RelativeDocumentMoniker": "Problem1\\BL\\Subject.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\BL\\Subject.cs",
               "RelativeToolTip": "Problem1\\BL\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:05:43.075Z",
               "IsPinned": true,
@@ -191,8 +186,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T15:44:44.441Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -202,7 +196,7 @@
               "RelativeDocumentMoniker": "Problem1\\DL\\SubjectCRUD.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD5\\Problem1\\Problem1\\DL\\SubjectCRUD.cs",
               "RelativeToolTip": "Problem1\\DL\\SubjectCRUD.cs",
-              "ViewState": "AgIAABEAAAAAJjMzMzPjvw4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAACEzMzMzIwowCAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T15:45:35.878Z",
               "IsPinned": true,

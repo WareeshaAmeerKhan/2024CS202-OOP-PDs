@@ -18,8 +18,6 @@ namespace Problem1.BL
         public List<DegreeProgram> Preferences;
         public DegreeProgram DegreeRegistered;
 
-        public Student() { }
-
         public Student(string name, int age, double FSCMarks, double EcatMarks)
         {
             this.name = name;
@@ -30,6 +28,7 @@ namespace Problem1.BL
             isRegistered = true;
             SubjectRegistered = new List<Subject>();
             Preferences = new List<DegreeProgram>();
+            DegreeRegistered = new DegreeProgram();
         }
 
         public void RegisterSubjects(List<Subject> ListOfSubjects)

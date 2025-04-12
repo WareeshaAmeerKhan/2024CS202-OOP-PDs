@@ -16,14 +16,16 @@ namespace Problem1.BL
 
         public DegreeProgram()
         {
-            ListOfSubjects = new List<Subject>();
+            
         }
+
         public DegreeProgram(string title, int duration, int seats, double merit)
         {
             this.title = title;
             this.duration = duration;
             this.seats = seats;
             this.merit = merit;
+            ListOfSubjects = new List<Subject>();
         }
 
         public Subject GetSubjectbyCode(string code)

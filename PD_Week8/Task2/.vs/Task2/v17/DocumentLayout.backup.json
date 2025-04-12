@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|e:\\semester2\\oop\\pd\\pd_week8\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\task2\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|solutionrelative:task2\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\task2\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|solutionrelative:task2\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 319,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\Task2\\BL\\Deck.cs",
+              "RelativeDocumentMoniker": "Task2\\BL\\Deck.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\Task2\\BL\\Deck.cs",
+              "RelativeToolTip": "Task2\\BL\\Deck.cs",
+              "ViewState": "AgIAACAAAAAAmZmZmZkpwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:37:36.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\Task2\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "Task2\\BL\\Card.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\Task2\\BL\\Card.cs",
+              "RelativeToolTip": "Task2\\BL\\Card.cs",
+              "ViewState": "AgIAADYAAAAAZGZmZmYawEsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:30:33.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:28:45.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
