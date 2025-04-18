@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|e:\\semester2\\oop\\pd\\pd_week8\\task3\\task3\\bl\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\task3\\bl\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|solutionrelative:task3\\bl\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|e:\\semester2\\oop\\pd\\pd_week8\\task3\\task3\\bl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\task3\\bl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|solutionrelative:task3\\bl\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|e:\\semester2\\oop\\pd\\pd_week8\\task3\\task3\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\task3\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|solutionrelative:task3\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|e:\\semester2\\oop\\pd\\pd_week8\\task3\\task3\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\task3\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0EFAC73-F62F-45DC-B8B5-FF3CA2243C62}|Task3\\Task3.csproj|solutionrelative:task3\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Card.cs",
-              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\Task3\\BL\\Card.cs",
-              "RelativeDocumentMoniker": "Task3\\BL\\Card.cs",
-              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\Task3\\BL\\Card.cs",
-              "RelativeToolTip": "Task3\\BL\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:13:30.941Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -58,8 +45,16 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\Task3\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "Task3\\BL\\Card.cs",
+              "ToolTip": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\Task3\\BL\\Card.cs",
+              "RelativeToolTip": "Task3\\BL\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:13:30.941Z"
             },
             {
               "$type": "Document",
@@ -71,8 +66,7 @@
               "RelativeToolTip": "Task3\\BL\\Deck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:13:37.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:13:37.827Z"
             },
             {
               "$type": "Document",
@@ -84,8 +78,7 @@
               "RelativeToolTip": "Task3\\BL\\Hand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:11:57.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:11:57.533Z"
             },
             {
               "$type": "Document",
@@ -97,8 +90,7 @@
               "RelativeToolTip": "Task3\\BL\\BlackjackHand.cs",
               "ViewState": "AgIAAAYAAAAAMTMzMzMLwCMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:11:35.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:11:35.405Z"
             },
             {
               "$type": "Document",
@@ -108,7 +100,7 @@
               "RelativeDocumentMoniker": "Task3\\Program.cs",
               "ToolTip": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task3\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAALDMzMzPjv0QAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T11:07:30.119Z",
               "EditorCaption": ""

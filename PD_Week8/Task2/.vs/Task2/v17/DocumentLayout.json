@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\task2\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|e:\\semester2\\oop\\pd\\pd_week8\\task2\\task2\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|solutionrelative:task2\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|solutionrelative:task2\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|e:\\semester2\\oop\\pd\\pd_week8\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|E:\\Semester2\\OOP\\PD\\PD_Week8\\Task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FE1E54D-D36D-467D-8B51-CB10ABCC1298}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Task2\\BL\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T05:30:33.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T05:30:33.293Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Task2\\Program.cs",
               "ViewState": "AgIAABoAAABAMTMzM3MmwFkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T05:28:45.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T05:28:45.437Z"
             }
           ]
         },
